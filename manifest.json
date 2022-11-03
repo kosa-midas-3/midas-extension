@@ -15,7 +15,7 @@
     "newtab": "index.html"
   },
   "action": {
-    "default_title": "Click Me",
-    "default_popup": "index.html"
+    "default_title": "일정",
+    "default_popup": "cal.html"
   }
 }

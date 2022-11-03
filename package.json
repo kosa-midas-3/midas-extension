@@ -1,0 +1,23 @@
+{
+  "name": "midas-extention",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosa-midas-3/midas-extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosa-midas-3/midas-extension/issues"
+  },
+  "homepage": "https://github.com/kosa-midas-3/midas-extension#readme",
+  "dependencies": {
+    "dayjs": "^1.11.6"
+  }
+}
